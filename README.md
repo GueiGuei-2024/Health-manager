@@ -2,7 +2,7 @@
 
 > **讓 AI 成為你的健康教練，而不僅僅是一個紀錄工具。**
 
-Health Manager AI 是一個基於 **CrewAI** 與 **Google Gemini 1.5** 驅動的自動化健康管理系統。它不再只是冰冷的數字填寫，而是透過多個 AI 代理人（Agents）的協作，主動關心你的飲食、運動與睡眠，並在每日早晚提供精準的指導與回饋。
+Health Manager AI 是一個基於 **CrewAI** 與 **Google Gemini 2.5 Flash** 驅動的自動化健康管理系統。它不再只是冰冷的數字填寫，而是透過多個 AI 代理人（Agents）的協作，主動關心你的飲食、運動與睡眠，並在每日早晚提供精準的指導與回饋。
 
 ---
 
@@ -44,7 +44,7 @@ Health Manager AI 是一個基於 **CrewAI** 與 **Google Gemini 1.5** 驅動的
 
 ## 🛠️ 技術棧
 - **Framework**: [CrewAI](https://github.com/joaomoura/crewAI)
-- **LLM Brain**: [Google Gemini 1.5 Flash/Pro](https://ai.google.dev/)
+- **LLM Brain**: [Google Gemini 2.5 Flash Flash/Pro](https://ai.google.dev/)
 - **Storage**: Local Structured JSON (未來計畫支援 SQL/Notion API)
 - **Language**: Python
 
